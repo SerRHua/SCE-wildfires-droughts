@@ -4,4 +4,4 @@ This project is user interactive and talks about wildfires and droughts in Calif
 ## Technologies
 Project is created using Eclipse.
 ## Sources
-The information we got about wildfires and droughts came from the various websites online. 
+The information we got about wildfires and droughts came from the various websites online. We came up with the hypothetical game by ourselves.
